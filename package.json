@@ -1,0 +1,22 @@
+{
+  "name": "clase03-1870905",
+  "version": "1.0.0",
+  "description": "profile instagram ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplicaciones-mobiles-33/Clase03-1870905.git"
+  },
+  "author": "Melanie Gzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplicaciones-mobiles-33/Clase03-1870905/issues"
+  },
+  "homepage": "https://github.com/aplicaciones-mobiles-33/Clase03-1870905#readme",
+  "dependencies": {
+    "http-serve": "^1.0.1"
+  }
+}
